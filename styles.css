@@ -1,3 +1,7 @@
 .container-justify {
     text-align: justify;
 }
+
+li {
+    list-style: none;
+}
